@@ -19,7 +19,7 @@ Switching on the camera in the camel habitat...
            /_I      L_I   L_I     /_I
 Look at that! Our little camel is sunbathing!`;
 
-lion = `
+let lion = `
 Switching on the camera in the lion habitat...
                                                ,w.
                                              ,YWMMw  ,M  ,
@@ -65,7 +65,7 @@ Switching on the camera in the deer habitat...
           /_//_/           /_/   /_/
 Our 'Bambi' looks hungry. Let's go to feed it!`;
 
-goose = `
+let goose = `
 Switching on the camera in the goose habitat...
 
                                     _
